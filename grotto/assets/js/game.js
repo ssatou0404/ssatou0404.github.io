@@ -217,8 +217,6 @@ var mainState = {
     },
 
     onDownBtns: function(sprite){
-        this.leftBtn.btnActive = false;
-        this.rightBtn.btnActive = false;
         sprite.alpha = .9;
         sprite.btnActive = true;
     },
