@@ -1,0 +1,15 @@
+{
+	"short_name": "grotto",
+	"name": "grotto escape",
+	"display": "standalone",
+	"orientation": "landscape",
+	"background_color": "#021721",
+	"start_url": "/grotto2/index.html",
+	"icons": [
+		{
+			"src": "/grotto2/assets/img/app-icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
+}
